@@ -1,0 +1,24 @@
+{
+  "name": "html-rolanbarber",
+  "version": "1.0.0",
+  "description": "node project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buchelij/HTML-RolanBarber.git"
+  },
+  "author": "Jhonier Bucheli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/buchelij/HTML-RolanBarber/issues"
+  },
+  "homepage": "https://github.com/buchelij/HTML-RolanBarber#readme",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "ejs": "^3.1.6",
+    "express.js": "^1.0.0"
+  }
+}
